@@ -1,0 +1,7 @@
+# Power BI file - open in Power BI Desktop
+*.pbix binary
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
